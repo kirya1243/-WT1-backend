@@ -1,0 +1,33 @@
+{
+  "benefits": [
+    "Speedy checkout",
+    "Order tracking",
+    "Exclusive offers"
+  ],
+  "users": [
+    {
+      "id": "u1",
+      "firstName": "Ivan",
+      "lastName": "Petrov",
+      "gender": "Male",
+      "email": "ivan@example.com",
+      "password": "ivanPasswordHash"
+    },
+    {
+      "id": "fac1fecf-5c39-4850-a2f1-22c24cc990cb",
+      "firstName": "Lovash",
+      "lastName": "Love",
+      "gender": "Male",
+      "email": "Lovash@mail.ru",
+      "password": "$2b$10$wqg5Z0PbUhMpsATAHE.HyOikJuNwmXkwMKMr6t9xwUvvYGbxUvUbS"
+    },
+    {
+      "id": "0dd5a172-ca15-454e-9c14-03f755b54844",
+      "firstName": "dfg",
+      "lastName": "dfgdfg",
+      "gender": "Male",
+      "email": "gdfgdfgdf@dfs.gfg",
+      "password": "$2b$10$am80yGuuZDgnmBgsM2bXTOuzA87KeMP/9bN.UDojTSTUDGMX72IrS"
+    }
+  ]
+}
